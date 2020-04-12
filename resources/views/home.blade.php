@@ -15,6 +15,9 @@
                     @endif
 
                     You are logged in!
+                        @can(['p1', 'p2'])
+                            //dsfdsfdsf
+                        @endcan
                 </div>
             </div>
         </div>

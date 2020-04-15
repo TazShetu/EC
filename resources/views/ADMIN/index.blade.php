@@ -297,7 +297,7 @@
             </div><!-- Row -->
         </div><!-- Main Wrapper -->
         <div class="page-footer">
-            <p>Made with <i class="fa fa-heart"></i> by skcats</p>
+            <p>Made with <i class="fa fa-heart"></i> by ugi</p>
         </div>
     </div>
     <!-- /Page Inner -->

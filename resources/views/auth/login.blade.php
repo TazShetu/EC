@@ -65,6 +65,13 @@
                             </div>
                         </div>
                     </form>
+                    <hr>
+                    <a href="{{ route('social.oauth', 'facebook') }}" class="btn btn-primary btn-block">
+                        Login with Facebook
+                    </a>
+{{--                    <a href="{{ route('social.oauth', 'google') }}" class="btn btn-danger btn-block">--}}
+{{--                        Login with Google--}}
+{{--                    </a>--}}
                 </div>
             </div>
         </div>
